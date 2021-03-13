@@ -7,5 +7,5 @@ import (
 )
 
 func main(){
-	fmt.Printf("%s, world!\n", greetings.Greeting())
+	fmt.Printf("%s, wor  ld!\n", greetings.Greeting())
 }
